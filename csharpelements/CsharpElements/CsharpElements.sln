@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpElements", "CsharpElements.csproj", "{FCBAE4A8-F11E-4AD8-A0C7-0231AB09C57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextToolsLib", "..\TextToolsLib\TextToolsLib.csproj", "{D6B6B80F-1195-4B7D-90E0-C621F10443B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCBAE4A8-F11E-4AD8-A0C7-0231AB09C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBAE4A8-F11E-4AD8-A0C7-0231AB09C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBAE4A8-F11E-4AD8-A0C7-0231AB09C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBAE4A8-F11E-4AD8-A0C7-0231AB09C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B6B80F-1195-4B7D-90E0-C621F10443B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6B80F-1195-4B7D-90E0-C621F10443B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6B80F-1195-4B7D-90E0-C621F10443B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6B80F-1195-4B7D-90E0-C621F10443B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49EF344A-3D70-4532-A21B-3A0FAED07AE9}
+	EndGlobalSection
+EndGlobal
